@@ -6,8 +6,6 @@ name: Unit tests
 on:
   push:
     branches: [ "Testing" ]
-  pull_request:
-    branches: [ "Testing" ]
 
 permissions:
   contents: read
