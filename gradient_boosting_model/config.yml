@@ -90,5 +90,4 @@ rare_label_n_categories: 5
 # loss function to be optimized
 loss: ls
 allowed_loss_functions:
-  - ls
   - huber
