@@ -6,8 +6,6 @@ name: Unit testing and Training the Model
 on:
   push:
     branches: [ "Development" ]
-  pull_request:
-    branches: [ "Development" ]
 
 permissions:
   contents: read
